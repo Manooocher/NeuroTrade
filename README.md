@@ -263,7 +263,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ---
 
-**Author**: Manus AI
 **Project**: NeuroTrade
 **Date**: July 26, 2025
 
